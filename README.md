@@ -1,14 +1,41 @@
 # Python-Basics
-My python learning journey 
-# Python Basics 🐍
 
-This repository contains my daily Python practice.
+📌 My daily Python learning journey.
 
-## 📌 Topics Covered
+---
+
+## 🚀 Topics Covered
+
 - Variables
 - Loops
 - Functions
 - Patterns
 
-## 🚀 Goal
+---
+
+## 📅 Progress
+
+✔ Day 01 – Variables  
+✔ Day 02 – Loops  
+⬜ Day 03 – Functions  
+⬜ Day 04 – Strings  
+
+---
+
+## 🎯 Goal
+
 To become internship ready.
+
+---
+
+## 💻 How to Run
+
+```bash
+python Day01_variables.py
+```
+
+---
+
+## ✨ Motivation
+
+Consistency > Perfection 🔥
